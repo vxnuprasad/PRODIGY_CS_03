@@ -1,7 +1,7 @@
 # PRODIGY_CS_03
 
 <p align="center">
-<a href="#"><img title="Password Strength Tool" src="password_strength_tool.png"></a>
+<a href="#"><img title="img_1" src="img_1.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/techno-rabit"><img title="Author" src="https://img.shields.io/badge/Author-Vishnu-yellow.svg?style=for-the-badge&logo=github"></a>
@@ -26,7 +26,7 @@ This Python-based tool assesses the strength of user-defined passwords through a
 ### 4. View Password: Optionally shows the entered password for user reference.
 
 <p align="center">
-<a href="#"><img title="Password Strength Tool" src="password_strength_tool_demo.png"></a>
+<a href="#"><img title="img_2" src="img_2.png"></a>
 </p>
 
 ### Usage
