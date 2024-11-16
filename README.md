@@ -39,7 +39,7 @@ Ensure you have the `re` and `getpass` libraries available in your Python enviro
 
 Clone the GitHub Repository:
 ```sh
-git clone https://github.com/techno-rabit/PRODIGY_CS_03
+git clone https://github.com/vxnuprasad/PRODIGY_CS_03
 ```
 Run:
 ```sh
